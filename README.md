@@ -23,7 +23,7 @@ I am a freelance looking for new projects and opportunities to collaborate with 
 
 ## 👩‍💻 Recent Projects
 
-- Frontend responsible for Food Delivery Start-Up
+- Frontend responsible for Food Order and Delivery Start-Up
 
 - UI and frontend developer for Interactive Reports on Pharmaceutical  Industry
 
