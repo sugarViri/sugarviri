@@ -1,16 +1,17 @@
-### Hi there!  :octocat:
+![autobanner](https://sugarviri.github.io/assets/autobanner.jpg)
 
-![png_Asset 3-50](https://user-images.githubusercontent.com/45453192/112316553-7f6bce80-8cab-11eb-8455-739c9ffa66b8.jpg)
-
-I'm Ana Martinez aka sugarViri  :candy:  passionate frontend developer from Spain.
+Passionate Frontend developer from Spain 💻  
 
 ## 🔭 Currently Searching
 
 I am a freelance looking for new projects and opportunities to collaborate with and be able to apply my skills; and also learn more and more and more and more! (greedy!)
 
+
 ## 🌱 Currently Learning
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+- Node Express
+
+- Python
 
 
 ## 🚀 Soft Skills
@@ -21,7 +22,8 @@ I am a freelance looking for new projects and opportunities to collaborate with 
 
 - Target Focused
 
-## 👩‍💻 Recent Projects
+
+## ![taza](https://sugarviri.github.io/assets/taza.png) Recent Projects
 
 - Frontend responsible for Food Order and Delivery Start-Up
 
@@ -43,7 +45,6 @@ I am a freelance looking for new projects and opportunities to collaborate with 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
